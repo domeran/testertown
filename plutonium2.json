@@ -1,7 +1,7 @@
 {
-	"name": "plutonium",
-	"title": "Plutonium",
-	"description": "A 5etools integration for Foundry VTT",
+	"name": "pluty",
+	"title": "Pluty",
+	"description": "A eee integration for Foundry VTT",
 	"version": "1.14.7",
 	"author": "Giddy",
 	"keywords": [
